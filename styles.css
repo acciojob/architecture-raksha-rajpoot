@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+body{
+	width:1100px;
+	background-color:lightslategray;
+}
+.imageContainer{
+	width:700px;
+	height:300px;
+}
+img{
+	width:200px;
+	height:100px;
+	/* display:flex;
+	text-align:center;
+	align-items:center; */
+	padding:10px;
+}
+.first-column{
+	width:200px;
+}
+.middle-column{
+	width:600px;
+	text-align:center;
+}
+.last-column{
+	width:200px;
+}
